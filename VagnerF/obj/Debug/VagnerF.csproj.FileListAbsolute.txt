@@ -1,0 +1,6 @@
+D:\GIT\30102019\VagnerF\VagnerF\bin\Debug\VagnerF.exe.config
+D:\GIT\30102019\VagnerF\VagnerF\bin\Debug\VagnerF.exe
+D:\GIT\30102019\VagnerF\VagnerF\bin\Debug\VagnerF.pdb
+D:\GIT\30102019\VagnerF\VagnerF\obj\Debug\VagnerF.csprojAssemblyReference.cache
+D:\GIT\30102019\VagnerF\VagnerF\obj\Debug\VagnerF.exe
+D:\GIT\30102019\VagnerF\VagnerF\obj\Debug\VagnerF.pdb
